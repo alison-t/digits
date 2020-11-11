@@ -59,7 +59,7 @@ The *digits* application allows user to:
      Type Control-C twice to stop.
   ```
 
-  ***Bycrypt Warning:** The following message will be displayed when running the application. It can be safely disregarded during inital development, as bycrypt is used by Meteor for password checking. Additionally, installation can be much more difficult than the message presents.
+  **Bycrypt Warning:** The following message will be displayed when running the application. It can be safely disregarded during inital development, as bycrypt is used by Meteor for password checking. Additionally, installation can be much more difficult than the message presents.
 
   ```
   Note: you are using a pure-JavaScript implementation of bcrypt.
