@@ -10,21 +10,23 @@ The *digits* application allows user to:
 
 ## Installation
 
-  1. Install [Meteor](https://www.meteor.com/install).
-  2. Download a copy of [*digits*](https://github.com/alison-t/digits). Permission to access the private repo must first be requested and given by the owner.
-  3. "cd" into the app directory within *digits* and install necessary libraries, using the following command for Windows:
+  1) Install [Meteor](https://www.meteor.com/install).
+
+  2) Download a copy of [*digits*](https://github.com/alison-t/digits). Permission to access the private repo must first be requested and given by the owner.
+
+  3) "cd" into the app directory within *digits* and install necessary libraries, using the following command for Windows:
 
   ```
   meteor npm install
   ```
 
-  4. Run the application with the command:
+  4) Run the application with the command:
 
   ```
   meteor npm run start
   ```
 
-  5. The first-time run of the application will generation two default users and some default data. The output will look like:
+  5) The first-time run of the application will generation two default users and some default data. The output will look like:
 
   ```
   C:\Users\akid6\github\alison-t\portfolio\digits\app>meteor npm run start
@@ -72,9 +74,11 @@ The *digits* application allows user to:
   in the root directory of your application.
   ```
 
-  6. Instructions in the output message can be followed to access the application at [http://localhost:3000/](http://localhost:3000/).
-  7. Login to the application using default credentials in [settings.development.json](https://github.com/alison-t/digits/blob/master/config/settings.development.json) or sign up and create a new account.
-  8. Run ESLint over the code within the applications' imports directory using:
+  6) Instructions in the output message can be followed to access the application at [http://localhost:3000/](http://localhost:3000/).
+
+  7) Login to the application using default credentials in [settings.development.json](https://github.com/alison-t/digits/blob/master/config/settings.development.json) or sign up and create a new account.
+
+  8) Run ESLint over the code within the applications' imports directory using:
 
   ```
   meteor npm run lint
