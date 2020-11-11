@@ -1,5 +1,3 @@
-# digits
-
 <img src="doc/digits-landingpage.png">
 
 The *digits* application allows user to:
